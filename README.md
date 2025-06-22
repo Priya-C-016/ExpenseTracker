@@ -33,18 +33,17 @@ State Management: Redux
 
 Deployment: Vercel
 
-📦 Installation
-bash
-Copy
-Edit
+## 📦 Installation
+
+```bash
 git clone https://github.com/your-username/expense-tracker.git
 cd expense-tracker
 npm install
 npm run dev
-📁 Folder Structure
-pgsql
-Copy
-Edit
+```
+## 📁 Folder Structure
+
+```
 expense-tracker/
 ├── public/
 ├── src/
@@ -56,6 +55,7 @@ expense-tracker/
 ├── .gitignore
 ├── package.json
 └── README.md
+```
 ## 💡 Usage
 - Add your transactions (income or expense).
 
