@@ -1,8 +1,77 @@
-# React + Vite
+## 💸 Expense Tracker App
+A simple and responsive web application to track income and expenses. Built with React, Redux, and Vite, and deployed on Vercel. Users can add transactions, view their balance, and store data persistently using localStorage.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🔗 Live Demo
+👉 Click here to view the live app
 
-Currently, two official plugins are available:
+## 📸 Screenshots
+Home Page	Add Transaction
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+(Make sure to add screenshots in a /screenshots folder)
+
+## 🚀 Features
+Add income and expense transactions
+
+View transaction history
+
+Display total balance, income, and expenses
+
+Persist data using localStorage
+
+Responsive design
+
+Built with modular React components and Redux store
+
+🛠️ Tech Stack
+Frontend: React, Redux
+
+Build Tool: Vite
+
+Styling: CSS
+
+State Management: Redux
+
+Deployment: Vercel
+
+📦 Installation
+bash
+Copy
+Edit
+git clone https://github.com/your-username/expense-tracker.git
+cd expense-tracker
+npm install
+npm run dev
+📁 Folder Structure
+pgsql
+Copy
+Edit
+expense-tracker/
+├── public/
+├── src/
+│   ├── components/
+│   ├── redux/
+│   ├── App.jsx
+│   ├── index.js
+│   └── styles/
+├── .gitignore
+├── package.json
+└── README.md
+## 💡 Usage
+- Add your transactions (income or expense).
+
+- View your financial summary.
+
+- All data is saved automatically in your browser.
+
+## 📚 Learning Outcomes
+- Learned how to manage app-wide state using Redux.
+
+- Practiced component-based architecture in React.
+
+- Used localStorage for persistent state handling.
+
+- Gained experience with Vite for faster development workflow.
+
+### 🧑‍💻 Author
+Priya Chanchal
+Portfolio • LinkedIn • GitHub
