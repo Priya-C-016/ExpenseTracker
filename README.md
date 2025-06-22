@@ -5,7 +5,11 @@ A simple and responsive web application to track income and expenses. Built with
 👉 Click here to view the live app
 
 ## 📸 Screenshots
-Home Page	Add Transaction
+### 🏠 Home Page
+![Home Page](https://github.com/Priya-C-016/ExpenseTracker/blob/main/Screenshots/Screenshot%20(413).png)
+
+### ➕ Add Transaction Page
+![Add Transaction](https://github.com/Priya-C-016/ExpenseTracker/blob/main/Screenshots/Screenshot%20(414).png)
 
 (Make sure to add screenshots in a /screenshots folder)
 
